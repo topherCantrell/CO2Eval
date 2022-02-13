@@ -2,14 +2,20 @@
 Comparing 3 types of CO2 sensors (two instances of each) -- plus a handful
 of temperature, humidity, and pressure sensors.
 
-## The data is live here:
+I am hoping to examine how CO2 sensors compare to each other and how they are affected by drift over time (without auto calibration).
+
+## The live data is live
 https://io.adafruit.com/topher_cantrell/dashboards/sensor-study
 
-## Journal:
+## Journal
+
+My notes as the study progresses:
 
 [journal.md](journal.md)
 
 ## Sensors
+
+TODO: pictures of the hardware, sensor datasheets, etc
 
 ### Bit Bang
 - DHT11
