@@ -3,7 +3,7 @@ import time
 import datetime
 import json
 
-import aio_creds.py as CREDS
+import aio_creds as CREDS
 
 from Adafruit_IO import Client, Feed, Data 
 aio = Client(username=CREDS.username, key=CREDS.key)
