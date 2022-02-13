@@ -1,5 +1,6 @@
 # CO2Eval
-Comparing 3 CO2 sensors
+Comparing 3 types of CO2 sensors (two instances of each) -- plus a handful
+of temperature, humidity, and pressure sensors.
 
 ## The data is live here:
 https://io.adafruit.com/topher_cantrell/dashboards/sensor-study
